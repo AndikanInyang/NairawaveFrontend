@@ -1,0 +1,10 @@
+{
+  "description": "This banking platform enables users in Nigeria to send and receive money, purchase data and airtime, and pay electricity bills seamlessly across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
